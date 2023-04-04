@@ -4,7 +4,7 @@
 # Preview
 
 <div align="center">
-<img src="https://github.com/imWalsh/Accelerator/blob/main/Resources/1.png" height="130"><img src="https://github.com/imWalsh/Accelerator/blob/main/Resources/2.png" height="130"><img src="https://github.com/imWalsh/Accelerator/blob/main/Resources/3.png" height="130">
+<img src="https://github.com/imWalsh/Accelerator/blob/main/Resources/1.png" height="300"><img src="https://github.com/imWalsh/Accelerator/blob/main/Resources/2.png" height="300"><img src="https://github.com/imWalsh/Accelerator/blob/main/Resources/3.png" height="300">
 </div>
 
 # Usage
