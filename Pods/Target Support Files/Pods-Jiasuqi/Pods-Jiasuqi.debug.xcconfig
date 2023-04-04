@@ -1,0 +1,12 @@
+CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/AFNetworking" "${PODS_CONFIGURATION_BUILD_DIR}/CocoaAsyncSocket" "${PODS_CONFIGURATION_BUILD_DIR}/MJExtension" "${PODS_CONFIGURATION_BUILD_DIR}/Masonry" "${PODS_CONFIGURATION_BUILD_DIR}/Toast" "${PODS_CONFIGURATION_BUILD_DIR}/XYIAPKit" "${PODS_CONFIGURATION_BUILD_DIR}/YYCache" "${PODS_CONFIGURATION_BUILD_DIR}/YYImage" "${PODS_CONFIGURATION_BUILD_DIR}/YYModel" "${PODS_CONFIGURATION_BUILD_DIR}/YYWebImage"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/AFNetworking/AFNetworking.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/CocoaAsyncSocket/CocoaAsyncSocket.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/MJExtension/MJExtension.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/Masonry/Masonry.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/Toast/Toast.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/XYIAPKit/XYIAPKit.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/YYCache/YYCache.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/YYImage/YYImage.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/YYModel/YYModel.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/YYWebImage/YYWebImage.framework/Headers"
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+OTHER_LDFLAGS = $(inherited) -l"sqlite3" -l"z" -framework "AFNetworking" -framework "Accelerate" -framework "AssetsLibrary" -framework "CFNetwork" -framework "CocoaAsyncSocket" -framework "CoreFoundation" -framework "Foundation" -framework "ImageIO" -framework "MJExtension" -framework "Masonry" -framework "MobileCoreServices" -framework "QuartzCore" -framework "Security" -framework "StoreKit" -framework "Toast" -framework "UIKit" -framework "XYIAPKit" -framework "YYCache" -framework "YYImage" -framework "YYModel" -framework "YYWebImage"
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods
+PODS_XCFRAMEWORKS_BUILD_DIR = $(PODS_CONFIGURATION_BUILD_DIR)/XCFrameworkIntermediates
+USE_RECURSIVE_SCRIPT_INPUTS_IN_SCRIPT_PHASES = YES

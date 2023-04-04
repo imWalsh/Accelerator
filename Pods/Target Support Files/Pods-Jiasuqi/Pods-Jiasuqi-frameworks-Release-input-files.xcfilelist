@@ -1,0 +1,11 @@
+${PODS_ROOT}/Target Support Files/Pods-Jiasuqi/Pods-Jiasuqi-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/MJExtension/MJExtension.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/Toast/Toast.framework
+${BUILT_PRODUCTS_DIR}/XYIAPKit/XYIAPKit.framework
+${BUILT_PRODUCTS_DIR}/YYCache/YYCache.framework
+${BUILT_PRODUCTS_DIR}/YYImage/YYImage.framework
+${BUILT_PRODUCTS_DIR}/YYModel/YYModel.framework
+${BUILT_PRODUCTS_DIR}/YYWebImage/YYWebImage.framework
+${BUILT_PRODUCTS_DIR}/CocoaAsyncSocket/CocoaAsyncSocket.framework
