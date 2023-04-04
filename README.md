@@ -3,9 +3,11 @@
 
 # Preview
 
-<img src="https://github.com/imWalsh/Accelerator/blob/main/Resources/1.png" width="33%">
-<img src="https://github.com/imWalsh/Accelerator/blob/main/Resources/2.png" width="33%">
-<img src="https://github.com/imWalsh/Accelerator/blob/main/Resources/3.png" width="33%">
+<figure class="third">
+  <img src="https://github.com/imWalsh/Accelerator/blob/main/Resources/1.png" width="33%">
+  <img src="https://github.com/imWalsh/Accelerator/blob/main/Resources/2.png" width="33%">
+  <img src="https://github.com/imWalsh/Accelerator/blob/main/Resources/3.png" width="33%">
+</figure>
 
 # Usage
 
