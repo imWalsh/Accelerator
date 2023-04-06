@@ -3,9 +3,10 @@
 
 # Preview
 
-<div align="center">
-<img align="left" src="https://github.com/imWalsh/Accelerator/blob/main/Resources/1.png" width='30%'><img  align="center" src="https://github.com/imWalsh/Accelerator/blob/main/Resources/2.png" width='30%'><img  align="right" src="https://github.com/imWalsh/Accelerator/blob/main/Resources/3.png" width='30%'>
-</div>
+<img align="left" src="https://github.com/imWalsh/Accelerator/blob/main/Resources/1.png" width='30%'>
+<img align="center" src="https://github.com/imWalsh/Accelerator/blob/main/Resources/2.png" width='30%'>
+<img align="right" src="https://github.com/imWalsh/Accelerator/blob/main/Resources/3.png" width='30%'>
+
 
 # Usage
 
