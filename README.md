@@ -3,7 +3,7 @@
 
 # Preview
 
-|![]([https://z3.ax1x.com/2021/04/26/gp1hm6.jpg](https://github.com/imWalsh/Accelerator/blob/main/Resources/1.png))|![]([https://z3.ax1x.com/2021/04/26/gp1Tte.jpg](https://github.com/imWalsh/Accelerator/blob/main/Resources/2.png))|![]([https://z3.ax1x.com/2021/04/26/gp17fH.jpg](https://github.com/imWalsh/Accelerator/blob/main/Resources/3.png))|
+|![](https://github.com/imWalsh/Accelerator/blob/main/Resources/1.png)|![](https://github.com/imWalsh/Accelerator/blob/main/Resources/2.png)|![](https://github.com/imWalsh/Accelerator/blob/main/Resources/3.png)|
 |:---:|:---:|:---:|
 
 # Usage
